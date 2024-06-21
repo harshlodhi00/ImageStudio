@@ -38,13 +38,13 @@ export default function Hero() {
           </h2>
         </div>
 
-        <div className="mt-5 max-w-3xl text-center mx-auto">
+        {/* <div className="mt-5 max-w-3xl text-center mx-auto">
           <p className="mt-8 text-center text-xl font-light tracking-tight lg:text-3xl">
             Convert, resize and compress your images with{" "}
             <b className="font-semibold">precision</b> and
             <b className="font-semibold"> ease</b>!
           </p>
-        </div>
+        </div> */}
       </div>
     </div>
   );

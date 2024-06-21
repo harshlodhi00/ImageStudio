@@ -8,6 +8,7 @@ type ImageReizeFit = {
   value: "cover" | "contain" | "fill" | "inside" | "outside";
 };
 
+
 export const supportedFormats: ImageFormat[] = [
   { name: "PNG", extension: "png" },
   { name: "JPG", extension: "jpeg" },

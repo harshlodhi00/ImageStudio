@@ -7,6 +7,7 @@ export function toBase64(file: File) {
     fileReader.onload = () => {
       resolve(fileReader.result as string);
     };
+    
 
     fileReader.onerror = (error) => {
       reject(error);
