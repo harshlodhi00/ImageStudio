@@ -5,7 +5,7 @@ export default function Logo() {
     <div className="flex flex-row items-center justify-center gap-2">
       <HashIcon size={30} className="text-primary" />
       <h1 className="text-xl font-medium text-primary md:text-3xl">
-        ImageStudio
+        ImageStudio 
       </h1>
     </div>
   );

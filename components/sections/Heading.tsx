@@ -5,7 +5,7 @@ export default function Heading() {
     <Head>
       {/* Meta */}
       <meta charSet="UTF-8" />
-      <meta name="author" content="Ahmed Abu Qahf" />
+      <meta name="author" content="Harsh Lodhi" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta
         name="description"
@@ -19,7 +19,7 @@ export default function Heading() {
 
       {/* Links */}
       <link rel="icon" href="/favicon.ico" />
-      <link rel="canonical" href="https://sharpstudio.vercel.app/" />
+      <link rel="canonical" href="https://imagestudio.vercel.app/" />
 
       {/* Open Graph */}
       <meta property="og:title" content="EditorSetup" />
@@ -27,14 +27,14 @@ export default function Heading() {
         property="og:description"
         content="Resize, convert and edit your images with precision and ease!"
       />
-      <meta property="og:url" content="https://sharpstudio.vercel.app/" />
+      <meta property="og:url" content="https://imagestudio.vercel.app/" />
       <meta property="og:image" content="/img/og-image.png" />
 
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content="https://sharpstudio.vercel.app/" />
-      <meta name="twitter:creator" content="Ahmed Abu Qahf" />
-      <meta name="twitter:title" content="SharpStudio" />
+      <meta name="twitter:site" content="https://imagestudio.vercel.app/" />
+      <meta name="twitter:creator" content="Harsh Lodhi" />
+      <meta name="twitter:title" content="imagestudio" />
       <meta
         name="twitter:description"
         content="Resize, convert and edit your images with precision and ease!"
@@ -42,7 +42,7 @@ export default function Heading() {
       <meta name="twitter:image" content="/img/og-image.png" />
 
       {/* Title */}
-      <title>SharpStudio</title>
+      <title>ImageStudio</title>
     </Head>
   );
 }
